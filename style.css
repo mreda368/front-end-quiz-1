@@ -43,7 +43,9 @@ nav a {
 #services {
     background-color: whitesmoke;
 }
-
+#services .bold {
+    font-weight: bold;
+}
 h2 {
     color: #1d4ed8;
     font-size: 1.25rem;
